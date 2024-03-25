@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to JavaScript",
+      "description": "Learn the basics of JavaScript, including variables, data types, functions, and objects.",
+      "instructor": "John Doe",
+      "university": "University of XYZ",
+      "rating": 4.5,
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220714150931/JavaScript-Introduction.jpg",
+      "url": "https://youtube.com/embed/W6NZfCO5SIk"
+    },
+    {
+      "id": 2,
+      "title": "Python for Data Science",
+      "description": "Learn how to use Python for data analysis, visualization, and machine learning.",
+      "instructor": "Jane Smith",
+      "university": "University of ABC",
+      "rating": 4.7,
+      "image": "https://imarticus.org/blog/wp-content/uploads/2021/12/learn-Python-for-data-science.jpg",
+      "url": "https://youtube.com/embed/mkv5mxYu0Wk"
+    },
+    {
+      "id": 3,
+      "title": "Java Programming",
+      "description": "Learn the fundamentals of Java programming, including object-oriented programming and data structures.",
+      "instructor": "Bob Johnson",
+      "university": "University of DEF",
+      "rating": 4.3,
+      "image": "https://www.finoit.com/wp-content/uploads/2022/11/future-of-java-programming-language-768x576.jpg",
+      "url": "https://youtube.com/embed/eIrMbAQSU34"
+    },
+    {
+      "id": 4,
+      "title": "C++ Programming",
+      "description": "Learn the basics of C++ programming, including object-oriented programming and data structures.",
+      "instructor": "Alice Davis",
+      "university": "University of GHI",
+      "rating": 4.6,
+      "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg",
+      "url": "https://youtube.com/embed/ZzaPdXTrSb8"
+    },
+    {
+      "id": 5,
+      "title": "Introduction to HTML and CSS",
+      "description": "Learn the basics of HTML and CSS, including tags, attributes, and layout.",
+      "instructor": "Charlie Brown",
+      "university": "University of JKL",
+      "rating": 4.8,
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*TKydYYIz4Byrvh63z5boLg.png",
+      "url": "https://youtube.com/embed/_GTMOmRrqkU"
+    },
+    {
+      "id": 6,
+      "title": "React Native for Mobile App Development",
+      "description": "Learn how to build mobile apps using React Native, including components, state management, and navigation.",
+      "instructor": "David Williams",
+      "university": "University of MNO",
+      "rating": 4.4,
+      "image": "https://www.freecodecamp.org/news/content/images/size/w2000/2021/07/reactcourse.png",
+      "url": "https://youtube.com/embed/Y6aYx_KKM7A"
+    },
+    {
+      "id": 7,
+      "title": "Introduction to Machine Learning",
+      "description": "Learn the basics of machine learning, including supervised and unsupervised learning, and neural networks.",
+      "instructor": "Eva Johnson",
+      "university": "University of PQR",
+      "rating": 4.9,
+      "image": "https://www.techopedia.com/wp-content/uploads/2023/02/sunlight-lighting-indoors-interior-design-audience-concert-crowd-human-4.jpg",
+      "url": "https://youtube.com/embed/ukzFI9rgwfU"
+    },
+    {
+      "id": 8,
+      "title": "Data Structures and Algorithms",
+      "description": "Learn the fundamentals of data structures and algorithms, including arrays, linked lists, and sorting algorithms.",
+      "instructor": "Frank Miller",
+      "university": "University of STU",
+      "rating": 4.2,
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*4ZcW5tSdizlbtDQyVpRTuA.jpeg",
+      "url": "https://youtube.com/embed/BBpAmxU_NQo"
+    },
+    {
+      "id": 9,
+      "title": "Introduction to Web Development",
+      "description": "Learn the basics of web development, including HTML, CSS, JavaScript, and server-side programming.",
+      "instructor": "Grace Lee",
+      "university": "University of VWX",
+      "rating": 4.7,
+      "image": "https://stiffentechnologies.com/wp-content/uploads/2021/11/Web-Development.jpg",
+      "url": "https://youtube.com/embed/Q33KBiDriJY"
+    },
+    {
+      "id": 10,
+      "title": "Full Stack Web Development",
+      "description": "Learn how to build full-stack web applications using modern technologies and frameworks.",
+      "instructor": "Harry White",
+      "university": "University of YZ",
+      "rating": 4.5,
+      "image": "https://www.codingbytes.com/wp-content/uploads/2022/03/full-stack-web-development.jpg",
+      "url": "https://youtube.com/embed/nu_pCVPKzTk"
+    }
+  ]

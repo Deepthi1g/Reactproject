@@ -1,0 +1,32 @@
+.content-container {
+  background-image: url('/assets/e-learning-img-1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  padding-top: 5rem;
+}
+
+#content{
+  display: flex;
+  margin-top: 10px;
+  left: 20%;
+}
+
+.footer {
+  background-color: #343a40;
+  padding: 1rem 0;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .footer {
+    position: static;
+  }
+}
